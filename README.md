@@ -18,11 +18,11 @@ Procurava uma maneira de transformar toda semana em uma _Think Week_ e conseguir
 
 É selecionado um conjunto de conteúdos e organizados semanalmente.
 
-[Visualizar semanas](/weeks).
+[Visualizar semanas](/weeks)
 
 ## De onde vem os conteúdos?
 
-[Lista de fontes](/site-list.md).
+[Lista de fontes](/site-list.md)
 
 ## Benefícios
 
