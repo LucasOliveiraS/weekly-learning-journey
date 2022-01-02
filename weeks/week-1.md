@@ -13,7 +13,7 @@
 
 - [All You Need Is 15 Minutes of Strategic Internet Browsing](https://forge.medium.com/all-you-need-is-15-minutes-of-strategic-internet-browsing-1382f4405ff5)
 
-## Palestras
+## Palestras 🎤
 
 - [The art of asking](https://www.ted.com/talks/amanda_palmer_the_art_of_asking)
 
